@@ -1,0 +1,27 @@
+header {
+    background-color: black;
+    height: 70px;
+    text-align: center;
+    color: white;
+
+}
+.currentStats {
+    background-color:lightgray;
+}
+button {
+    border: solid 1px black;
+}
+.fiveDay {
+    background-color: rgb(136, 168, 255);
+}
+.city {
+    font-size: 60px;
+}
+
+.history {
+    background-color:whitesmoke;
+}
+#current {
+    width:400px;
+    height: 400px;
+}
